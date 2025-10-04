@@ -1,0 +1,2 @@
+CREATE DATABASE notesdb;
+CREATE DATABASE keycloak;
